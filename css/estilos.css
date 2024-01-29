@@ -1,0 +1,18 @@
+body {background-color: #97f7b1;}
+
+h1 {color: #1f1fff;}
+
+p {color: #000000;}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+figcaption{text-align:center;}
+
+img{
+	design:block;
+	width:120px;
+	height:70px;
+}
